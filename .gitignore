@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MemoDrop project-specific
+learning/
+.remember/
+.claude/settings.local.json
+*.db    # SQLite database (private notes — never publish)
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
