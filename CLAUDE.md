@@ -1,3 +1,10 @@
+## Project Context
+
+- Architecture, tech stack, data flow: [docs/architecture.md](docs/architecture.md)
+- Module contracts (inputs/outputs): [docs/modules/](docs/modules/)
+
+---
+
 ## 1. Think Before Coding
 
 **Don't assume. Don't hide confusion. Surface tradeoffs.**
