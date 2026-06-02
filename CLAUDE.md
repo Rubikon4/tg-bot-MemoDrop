@@ -1,7 +1,9 @@
 ## Project Context
 
 - Architecture, tech stack, data flow: [docs/architecture.md](docs/architecture.md)
+- Development phases: [docs/phases.md](docs/phases.md)
 - Module contracts (inputs/outputs): [docs/modules/](docs/modules/)
+- User's learning goal and progress: [learning/learning-goal.md](learning/learning-goal.md)
 
 ---
 
