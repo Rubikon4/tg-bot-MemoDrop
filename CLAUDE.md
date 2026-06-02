@@ -62,3 +62,9 @@ For multi-step tasks, state a brief plan:
 ```
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
+
+## 5. Ask Before Generate / Writing Files
+
+Before generating any file (write code to file, create new file, config, docs, etc.), always ask:
+"Ready to create [filename]?"
+Wait for confirmation before proceeding.
